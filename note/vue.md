@@ -341,3 +341,13 @@ data与el的2种写法
 ```
 
 ![el与data的两种写法](.\img\el与data的两种写法.jpg)
+
+
+
+## 1.6 MVVM模型
+
+1. M：模型（Model）：对应data中的数据
+2. V：视图（View）：模板
+3. VM：视图模型（ViewModel）：Vue实例对象
+
+![MVVM模型](.\img\MVVM模型.jpg)
